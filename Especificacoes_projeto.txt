@@ -1,0 +1,7 @@
+Projeto SAT solver IC
+aluno: Felipe Higino Paixão da Silva
+
+Uso do programa:
+-usar comando node main.js no terminal do visual studio
+-os arquivos .cnf devem estar na mesma pasta do programa
+-não é preciso digitar ".cnf" depois do nome do arquivo
